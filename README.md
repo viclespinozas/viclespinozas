@@ -1,16 +1,27 @@
-## Hi there 👋
+# Building in public
+> Warehouse nights · Learning days · Week `{WEEK}` of `{YEAR}`
 
-<!--
-**viclespinozas/viclespinozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![DDIA](https://img.shields.io/badge/reading-DDIA-blue)
+![Coursera](https://img.shields.io/badge/Coursera-Microsoft_cert-green)
+![German](https://img.shields.io/badge/German-A2_progress-orange)
+![Drawing](https://img.shields.io/badge/Drawing-daily-purple)
 
-Here are some ideas to get you started:
+## This week
+| M | T | W | T | F | S | S |
+|---|---|---|---|---|---|---|
+| ✅ | ✅ | ⚠️ | ✅ | 🏭 | 🏭 | 🏭 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progress this month
+| Activity | Days hit | Target |
+|---|---|---|
+| Coursera | 13/18 | 18/18 |
+| DDIA reading | 10/18 | 18/18 |
+| German A2 | 8/18 | 18/18 |
+| Drawing | 15/18 | 18/18 |
+| GitHub project | 5/18 | 8/18 |
+
+## Recent log
+- **Apr 14** — Coursera mod 4 · pushed commit · drew 40min
+- **Apr 13** — DDIA ch.5 replication · German Anki 30 cards
+- **Apr 12** — Warehouse shift (rest)
+- **Apr 11** — Coursera mod 3 · drawing · German vocab
