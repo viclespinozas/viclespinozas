@@ -21,7 +21,6 @@
 | GitHub project | 5/18 | 8/18 |
 
 ## Recent log
-- **Apr 14** — Coursera mod 4 · pushed commit · drew 40min
-- **Apr 13** — DDIA ch.5 replication · German Anki 30 cards
+- **Apr 14** — Coursera mod 1.2 · pushed commit · drew 40min
+- **Apr 13** — DDIA ch.1 reliability
 - **Apr 12** — Warehouse shift (rest)
-- **Apr 11** — Coursera mod 3 · drawing · German vocab
