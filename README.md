@@ -13,7 +13,7 @@ Coursera: [Microsoft Python Development Professional](https://www.coursera.org/s
 ## This week
 | M | T | W | T | F | S | S |
 |---|---|---|---|---|---|---|
-| ✅ | ✅ | ⚠️ | ✅ | 🏭 | 🏭 | 🏭 |
+| ✅ | ✅ | ✅ | ✅ | 🏭 | 🏭 | 🏭 |
 
 ## Progress this month
 | Activity | Days hit | Target | % | 
@@ -25,6 +25,7 @@ Coursera: [Microsoft Python Development Professional](https://www.coursera.org/s
 | GitHub project | 2/18 | 8/18 |![Progress](https://img.shields.io/badge/Progress-11%25-orange)|
 
 ## Recent log
+- **Apr 20** — Coursera mod 2.2 · pushed commit · drew 40min · read 30min 
 - **Apr 14** — Coursera mod 1.2 · pushed commit · drew 40min
 - **Apr 13** — DDIA ch.1 reliability
 - **Apr 12** — Warehouse shift (rest)
