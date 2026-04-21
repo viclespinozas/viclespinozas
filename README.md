@@ -18,11 +18,11 @@ Coursera: [Microsoft Python Development Professional](https://www.coursera.org/s
 ## Progress this month
 | Activity | Days hit | Target | % | 
 |---|---|---|---|
-| Coursera | 13/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-72%25-green)|
+| Coursera | 14/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-77%25-green)|
 | DDIA reading | 3/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-16%25-orange)|
-| German A2 | 1/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-16%25-orange)|
-| Drawing | 1/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-16%25-orange)|
-| GitHub project | 1/18 | 8/18 |![Progress](https://img.shields.io/badge/Progress-16%25-orange)|
+| German A1 | 3/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-16%25-orange)|
+| Drawing | 1/18 | 18/18 |![Progress](https://img.shields.io/badge/Progress-5%25-orange)|
+| GitHub project | 2/18 | 8/18 |![Progress](https://img.shields.io/badge/Progress-11%25-orange)|
 
 ## Recent log
 - **Apr 14** — Coursera mod 1.2 · pushed commit · drew 40min
