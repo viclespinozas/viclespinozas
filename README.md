@@ -12,11 +12,12 @@
 
 Senior Backend Engineer with 12+ years of experience building and operating high-traffic distributed systems, including 3.6 years in Munich at Mytheresa, delivering scalable microservices across AWS infrastructure for large-scale e-commerce platforms.
 
-🔭 &nbsp;I'm currently working on **Resume Builder using Local AI**
-🔭 &nbsp;I'm currently working on **Project & Tasks Tracker using Local AI**
-🌱 &nbsp;I'm currently learning **Python LLM**  
-👯 &nbsp;I'm looking to collaborate on **Anything AI related**  
-💬 &nbsp;Ask me about **Football, Customization**
+🔭 &nbsp;I'm currently working on **Resume Builder using Local AI**<br>
+🌱 &nbsp;I'm currently learning **Python LLM** and improving foundation through [Exercism](https://exercism.org/)<br>
+👯 &nbsp;I'm looking to collaborate on **Anything AI related**<br>
+💬 &nbsp;Ask me about **Football, Customization**<br>
+<br>
+🔭 &nbsp;Putting to test with Claude Code this **Project & Tasks Tracker using Local AI**<br>
 
 ### 🛠️ Tech Stack
 
